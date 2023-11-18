@@ -1,4 +1,4 @@
-# websockets-sensors-data-display
+# sensors data analyzer
 This project runs a node.js websocket server that receives sensor data coming from a microcontroller.
 It then displays the values in a graph using react.js project
 
@@ -6,7 +6,7 @@ It then displays the values in a graph using react.js project
 1. Install node.js
 2. Execute below command
 ```
-cd react-projects/websockets-sensors-data-display
+cd react-projects/sensors-data-analyzer
 npm install
 cd frontend
 npm install
